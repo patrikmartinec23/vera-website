@@ -47,6 +47,18 @@ h5 .badge {
     }
 }
 
+.details .vertical-decoration {
+    top: 0;
+    left: 0;
+    width: 24px;
+}
+
+.details-2 .vertical-decoration {
+    top: 5%;
+    right: 0;
+    width: 24px;
+}
+
 @media (max-width: 992px) {
     .xl-text {
         font-size: 50px;
